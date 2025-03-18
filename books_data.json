@@ -1,0 +1,30 @@
+[
+    {
+        "title": " Time",
+        "author": "deo",
+        "year": "2020",
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Qudrat",
+        "author": "Kinat",
+        "year": "2025",
+        "genre": "story",
+        "read": true
+    },
+    {
+        "title": "The Dark Night",
+        "author": "doe",
+        "year": "2022",
+        "genre": "fiction",
+        "read": false
+    },
+    {
+        "title": "Rehmat E Ramzan",
+        "author": "faroq",
+        "year": "2000",
+        "genre": "story",
+        "read": false
+    }
+]
